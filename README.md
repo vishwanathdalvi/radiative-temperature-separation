@@ -77,8 +77,7 @@ These scripts reproduce the Monte Carlo ray-tracing cases used for Figure 2. Bec
 Control cases with symmetric geometry and emissivity reproduce equilibrium (no temperature difference), confirming that the implementation does not introduce systematic bias.
 
 ## Code Availability
-The full simulation scripts for all Figure 2 configurations are available at https://github.com/vishwanathdalvi/radiative-temperature-separation.
-
+The full simulation scripts for all Figure 2 configurations are available in this repository.
 ## Contact
 
 Corresponding author: Vishwanath H. Dalvi
