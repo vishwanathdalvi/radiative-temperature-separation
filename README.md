@@ -1,6 +1,6 @@
 # Geometry-induced steady-state temperature separation in radiative systems with directional emissivity
 
-This repository contains the Python scripts used to generate the Figure 2 cases reported in the manuscript:
+This repository provides the Python scripts used to generate all Figure 2 results reported in the manuscript “Geometry-induced steady-state temperature separation in radiative systems with directional emissivity”. Each script corresponds directly to one row of Figure 2 and can be run independently.
 
 **"Geometry-induced steady-state temperature separation in radiative systems with directional emissivity"**
 
@@ -53,7 +53,7 @@ Each script opens a matplotlib figure with 2 panels:
 
 It also prints out these statistics after every epoch of 1000 rays.
 
-Since the simulation results are independent of the random seed, the random seed is not fixed in the scripts.
+Because the simulations are stochastic, exact trajectory histories and finite-sample fluctuations depend on the random seed; however, the reported steady-state behaviour is reproducible within statistical uncertainty, so the scripts do not fix a single seed.
 
 ## Mapping to manuscript Figure 2
 
@@ -75,6 +75,9 @@ These scripts reproduce the Monte Carlo ray-tracing cases used for Figure 2. Bec
 ## Validation
 
 Control cases with symmetric geometry and emissivity reproduce equilibrium (no temperature difference), confirming that the implementation does not introduce systematic bias.
+
+## Code Availability
+The full simulation scripts for all Figure 2 configurations are available at https://github.com/vishwanathdalvi/radiative-temperature-separation.
 
 ## Contact
 
