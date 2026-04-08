@@ -37,11 +37,11 @@ python scripts/figure2_row01.py
 
 ## Quick verification (Figure 2)
 
-To reproduce a representative case (e.g., Figure 2, Row 3):
-
+To reproduce a case (e.g., Figure 2, Row 3):
 ```bash
 python scripts/figure2_row03.py
 ```
+This particular case corresponds to a strongly asymmetric configuration and produces a clear steady-state temperature difference between source and receiver.
 
 The scripts generate transient/convergence plots for the corresponding Figure 2 case.
 
