@@ -9,6 +9,6 @@ authors:
   - family-names: Joshi
     given-names: Jyeshtharaj B.
 repository-code: "https://github.com/vishwanathdalvi/radiative-temperature-separation"
-license: "Proprietary"
+license: "MIT"
 version: 1.0
 date-released: 2026-04-08
