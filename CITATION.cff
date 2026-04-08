@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Geometry-induced steady-state temperature separation in radiative systems with directional emissivity"
+message: "If you use these scripts, please cite the associated manuscript."
+authors:
+  - family-names: Dalvi
+    given-names: Vishwanath H.
+  - family-names: Panse
+    given-names: Sudhir V.
+  - family-names: Joshi
+    given-names: Jyeshtharaj B.
+repository-code: "https://github.com/vishwanathdalvi/radiative-temperature-separation"
+license: "Proprietary"
