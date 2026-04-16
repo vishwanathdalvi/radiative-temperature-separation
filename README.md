@@ -1,8 +1,8 @@
-# Geometry-induced steady-state temperature separation in radiative systems with directional emissivity
+# Breakdown of global thermal equilibration in radiative systems with constrained angular transport
 
-This repository provides the Python scripts used to generate all Figure 2 results reported in the manuscript “Geometry-induced steady-state temperature separation in radiative systems with directional emissivity”. Each script corresponds directly to one row of Figure 2 and can be run independently.
+This repository provides the Python scripts used to generate all Figure 2 results reported in the manuscript “Breakdown of global thermal equilibration in radiative systems with constrained angular transport”. Each script corresponds directly to one row of Figure 2 and can be run independently.
 
-**"Geometry-induced steady-state temperature separation in radiative systems with directional emissivity"**
+**"Breakdown of global thermal equilibration in radiative systems with constrained angular transport"**
 
 ## Contents
 
