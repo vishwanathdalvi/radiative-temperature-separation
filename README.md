@@ -1,8 +1,8 @@
 # Breakdown of global thermal equilibration in radiative systems with constrained angular transport
 
-This repository provides the Python scripts used to generate all Figure 2 results reported in the manuscript “Breakdown of global thermal equilibration in radiative systems with constrained angular transport”. Each script corresponds directly to one row of Figure 2 and can be run independently.
+This repository provides the Python scripts used to generate all Figure 2 results reported in the manuscript “Angular phase-space constraints produce temperature separation in passive radiative enclosures”. Each script corresponds directly to one row of Figure 2 and can be run independently.
 
-**"Breakdown of global thermal equilibration in radiative systems with constrained angular transport"**
+**"Angular phase-space constraints produce temperature separation in passive radiative enclosures"**
 
 ## Contents
 
